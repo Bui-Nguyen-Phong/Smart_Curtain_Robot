@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/Lenovo/ESP/ESP_IDF/Espressif/frameworks/esp-idf-v5.4.1/components/**",
+                "C:/Users/Lenovo/ESP/ESP_IDF/Espressif/frameworks/esp-idf-v5.4.1/components/freertos/FreeRTOS-Kernel/include",
+                "C:/Users/Lenovo/ESP/ESP_IDF/Espressif/frameworks/esp-idf-v5.4.1/components/newlib/platform_include",
+                "C:/Users/Lenovo/ESP/ESP_IDF/Espressif/frameworks/esp-idf-v5.4.1/components/esp_common/include",
+                "C:/Users/Lenovo/ESP/ESP_IDF/Espressif/frameworks/esp-idf-v5.4.1/components/esp_system/include",
+                "C:/Users/Lenovo/ESP/ESP_IDF/Espressif/frameworks/esp-idf-v5.4.1/components/esp_driver_gpio/include",
+                "C:/Users/Lenovo/ESP/ESP_IDF/Espressif/frameworks/esp-idf-v5.4.1/components/esp_timer/include",
+                "${workspaceFolder}/components/app_stepmotor"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\msys64\\ucrt64\\bin\\gcc.exe",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}

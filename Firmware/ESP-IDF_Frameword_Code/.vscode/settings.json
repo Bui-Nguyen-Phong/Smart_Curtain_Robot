@@ -1,0 +1,13 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "ir_nec_encoder.h": "c",
+        "sdkconfig.h": "c",
+        "cstdint": "c",
+        "rmt_rx.h": "c",
+        "stdio.h": "c",
+        "queue.h": "c"
+    },
+    "git.ignoreLimitWarning": true,
+     
+}
